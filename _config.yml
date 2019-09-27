@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Haoyu Li (李浩宇)"
   avatar           : "profile.png"
-  bio              : "A Final-Year M.E. Student"
-  location         : "Shanghai Jiao Tong University"
+  bio              : "M.E. Student at Shanghai Jiao Tong University"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=g_240wUAAAAJ&hl=en"
-  email            : "first.last@sjtu.edu.cn"
+  email            : "haoyu.li@sjtu.edu.cn"
   researchgate     : 
   uri              :
   bitbucket        :
