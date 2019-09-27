@@ -18,17 +18,17 @@ B.E. in Software Engineering, Shanghai Jiao Tong University, China. 2013.09 - 20
 
 Publications
 =====
-ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection  
+ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)]  
 **Haoyu Li**, Mingyu Wu, Binyu Zang, Haibo Chen  
 VEE 2019
 
 
-Analysis and Optimizations of Java Full Garbage Collection  
+Analysis and Optimizations of Java Full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/full-gc.pdf)]  
 **Haoyu Li**, Mingyu Wu, Haibo Chen  
 APSys 2018 (Best Paper Runner Up)
 
 
-Espresso: Brewing Java for More Non-Volatility with Non-volatile Memory  
+Espresso: Brewing Java for More Non-Volatility with Non-volatile Memory [[PDF](https://Lei-Houjyu.github.io/files/espresso-gc.pdf)]  
 Mingyu Wu, Ziming Zhao, **Haoyu Li**, Heting Li, Haibo Chen, Binyu Zang, Haibing Guan  
 ASPLOS 2018
 
