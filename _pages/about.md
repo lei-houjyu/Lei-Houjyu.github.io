@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a final-year M.E. student at School of Software, Shanghai Jiao Tong University. In the last four years, I have a great experience in Institute of Parallel and Distributed Systems ([IPADS](https://ipads.se.sjtu.edu.cn/)), where I am advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and work on memory management in Java runtime.
 
-Currently, I am seeking to apply for a CS/ECE Ph.D. program starting from Fall 2020. I have broad interests in systems, especially operating systems, programming languages, and computer architecture.
+Currently, I am seeking to apply for a CS/ECE Ph.D. program starting from Fall 2020. I have broad interests in systems, especially operating systems, programming languages, and computer architecture. Click [here](https://Lei-Houjyu.github.io/files/cv.pdf) for my CV.
 
 Education
 ======
@@ -18,7 +18,7 @@ B.E. in Software Engineering, Shanghai Jiao Tong University, China. 2013.09 - 20
 
 Publications
 =====
-ScissorGC: scalable and efficient compaction for Java full garbage collection  
+ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection  
 **Haoyu Li**, Mingyu Wu, Binyu Zang, Haibo Chen  
 VEE 2019
 
@@ -28,7 +28,7 @@ Analysis and Optimizations of Java Full Garbage Collection
 APSys 2018 (Best Paper Runner Up)
 
 
-Espresso: Brewing Java for more non-volatility with non-volatile memory  
+Espresso: Brewing Java for More Non-Volatility with Non-volatile Memory  
 Mingyu Wu, Ziming Zhao, **Haoyu Li**, Heting Li, Haibo Chen, Binyu Zang, Haibing Guan  
 ASPLOS 2018
 
