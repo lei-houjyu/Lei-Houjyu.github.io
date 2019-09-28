@@ -9,12 +9,12 @@ redirect_from:
 ---
 I am a final-year M.E. student at School of Software, Shanghai Jiao Tong University. In the last four years, I have a great experience in Institute of Parallel and Distributed Systems ([IPADS](https://ipads.se.sjtu.edu.cn/)), where I am advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and work on memory management in Java runtime.
 
-Currently, I am seeking to apply for a CS/ECE Ph.D. program starting from Fall 2020. I have broad interests in systems, especially operating systems, programming languages, and computer architecture. Click [here](https://Lei-Houjyu.github.io/files/cv.pdf) for my CV.
+Currently, **I am seeking to apply for a CS/ECE Ph.D. program starting from Fall 2020**. I have broad interests in systems, especially operating systems, programming languages, and computer architecture. Click [here](https://Lei-Houjyu.github.io/files/cv.pdf) for my CV.
 
 Education
 ======
-M.E. in Software Engineering, Shanghai Jiao Tong University, China. 2018.09 - 2020.06 (Expected)  
-B.E. in Software Engineering, Shanghai Jiao Tong University, China. 2013.09 - 2018.06
+M.E. in Software Engineering, Shanghai Jiao Tong University, China. 2020.06 (Expected)  
+B.E. in Software Engineering, Shanghai Jiao Tong University, China. 2018.06
 
 Publications
 =====
@@ -28,7 +28,7 @@ Analysis and Optimizations of Java Full Garbage Collection [[PDF](https://Lei-Ho
 APSys 2018 (Best Paper Runner Up)
 
 
-Espresso: Brewing Java for More Non-Volatility with Non-volatile Memory [[PDF](https://Lei-Houjyu.github.io/files/espresso-gc.pdf)]  
+Espresso: Brewing Java for More Non-Volatility with Non-volatile Memory [[PDF](https://Lei-Houjyu.github.io/files/espresso.pdf)]  
 Mingyu Wu, Ziming Zhao, **Haoyu Li**, Heting Li, Haibo Chen, Binyu Zang, Haibing Guan  
 ASPLOS 2018
 
