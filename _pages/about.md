@@ -35,11 +35,11 @@ ASPLOS 2018
 
 Selected Awards
 ======
-2019,       National Scholarship  
-2018,       Shanghai Jiao Tong University Excellent Graduate  
+2019,       National Scholarship, Ministry of Education of China  
+2018,       Outstanding Graduate, Shanghai Jiao Tong University  
 2017,       Xin Dong Network Inc. Scholarship  
-2017,	    Shanghai Jiao Tong University Academic Progress Scholarship  
-2016/17,    National Encouragement Scholarship  
-2015/16/17, Shanghai Jiao Tong University Academic Excellent Scholarship
+2017,	      Academic Progress Scholarship, Shanghai Jiao Tong University  
+2016/17,    National Encouragement Scholarship, Ministry of Education of China  
+2015/16/17, Academic Excellent Scholarship, Shanghai Jiao Tong University
 
 
