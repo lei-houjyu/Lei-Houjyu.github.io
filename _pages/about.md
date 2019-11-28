@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a final-year M.E. student at School of Software, Shanghai Jiao Tong University. In the last four years, I have a great experience in Institute of Parallel and Distributed Systems ([IPADS](https://ipads.se.sjtu.edu.cn/)), where I am advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and work on memory management in Java runtime.
 
-Currently, **I am seeking to apply for a CS/ECE Ph.D. program starting from Fall 2020**. I have broad interests in systems, especially operating systems, programming languages, and computer architecture. Click [here](https://Lei-Houjyu.github.io/files/cv.pdf) for my CV.
+Currently, **I am seeking to apply for a CS/ECE Ph.D. program starting from Fall 2020**. I have broad interests in systems, especially operating/distributed systems and computer architecture. Click [here](https://Lei-Houjyu.github.io/files/cv.pdf) for my CV.
 
 Education
 ======
