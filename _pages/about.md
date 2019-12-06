@@ -11,6 +11,11 @@ I am a final-year M.E. student at School of Software, Shanghai Jiao Tong Univers
 
 Currently, **I am seeking to apply for a CS/ECE Ph.D. program starting from Fall 2020**. I would like to pursue systems research during my doctoral period. Please feel free to contact me via [email](mailto:haoyu.li@sjtu.edu.cn) at any time if you are interested in working with me. Click [here](https://Lei-Houjyu.github.io/files/cv.pdf) for my CV.
 
+News
+=====
+Dec. 2019 &emsp; OpenJDK has officially merged my [patch](https://bugs.openjdk.java.net/browse/JDK-8220465) improving full GC into the mainstream!  
+Oct. 2019 &emsp; I am attending [SOSP 2019](https://sosp19.rcs.uwaterloo.ca/)!
+
 Education
 ======
 M.E. in Software Engineering, Shanghai Jiao Tong University, China. 2020.06 (Expected)  
@@ -20,17 +25,17 @@ Publications
 =====
 ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)]  
 **Haoyu Li**, Mingyu Wu, Binyu Zang, Haibo Chen  
-VEE 2019
+[VEE 2019](https://conf.researchr.org/home/vee-2019)
 
 
 Analysis and Optimizations of Java Full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/full-gc.pdf)]  
 **Haoyu Li**, Mingyu Wu, Haibo Chen  
-APSys 2018 (Best Paper Runner Up)
+[APSys 2018](http://apsys18.kaist.ac.kr/) (Best Paper Runner Up)
 
 
 Espresso: Brewing Java for More Non-Volatility with Non-volatile Memory [[PDF](https://Lei-Houjyu.github.io/files/espresso.pdf)]  
 Mingyu Wu, Ziming Zhao, **Haoyu Li**, Heting Li, Haibo Chen, Binyu Zang, Haibing Guan  
-ASPLOS 2018
+[ASPLOS 2018](https://www.asplos2018.org/)
 
 
 Selected Awards
