@@ -13,7 +13,7 @@ Currently, **I am seeking to apply for a CS/ECE Ph.D. program starting from Fall
 
 News
 =====
-Dec. 2019 &emsp; OpenJDK has officially merged my [patch](https://bugs.openjdk.java.net/browse/JDK-8220465) improving full GC into the mainstream!  
+Dec. 2019 &emsp;OpenJDK has officially merged my [patch](https://bugs.openjdk.java.net/browse/JDK-8220465) improving full GC into the mainstream!  
 Oct. 2019 &emsp; I am attending [SOSP 2019](https://sosp19.rcs.uwaterloo.ca/)!
 
 Education
