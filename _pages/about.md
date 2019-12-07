@@ -23,7 +23,8 @@ B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China. 2018.0
 
 Publications
 =====
-ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)] **Haoyu Li**, Mingyu Wu, Binyu Zang, Haibo Chen  
+ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)]  
+**Haoyu Li**, Mingyu Wu, Binyu Zang, Haibo Chen  
 [VEE 2019](https://conf.researchr.org/home/vee-2019)
 
 
