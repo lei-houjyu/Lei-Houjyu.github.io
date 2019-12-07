@@ -23,8 +23,7 @@ B.E. in Software Engineering, Shanghai Jiao Tong University, China. 2018.06
 
 Publications
 =====
-ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)]  
-**Haoyu Li**, Mingyu Wu, Binyu Zang, Haibo Chen  
+ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)] **Haoyu Li**, Mingyu Wu, Binyu Zang, Haibo Chen  
 [VEE 2019](https://conf.researchr.org/home/vee-2019)
 
 
@@ -49,5 +48,6 @@ Selected Awards
 
 Personal
 =====
-Martial arts: National secondary Wushu athlete. I founded the Martial Arts Association at SJTU and acted as the first president. Now, it has became one of the top student clubs at SJTU. The Chinese Wechat public account is [here](https://Lei-Houjyu.github.io/files/qrcode.dib).
-Basketball: Fan of [Los Angeles Lakers](https://www.nba.com/lakers/).
+* Martial arts: National secondary Wushu athlete  
+  * I founded the Martial Arts Association at SJTU and acted as the first president. Now, it has became one of the top student clubs at SJTU. The Chinese Wechat public account is [here](https://Lei-Houjyu.github.io/files/qrcode.dib).  
+* Basketball: Fan of [Los Angeles Lakers](https://www.nba.com/lakers/)
