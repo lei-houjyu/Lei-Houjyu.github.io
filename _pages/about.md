@@ -49,5 +49,5 @@ Selected Awards
 Personal
 =====
 * Martial arts: National secondary Wushu athlete  
-  * I founded the Martial Arts Association at SJTU and acted as the first president. Now, it has became one of the top student clubs at SJTU. The Chinese Wechat public account is [here](https://Lei-Houjyu.github.io/files/qrcode.dib).  
+  * I founded the Martial Arts Association at SJTU and acted as the first president. Now, it has became one of the top student clubs at SJTU. The Chinese Wechat public account is [here](https://Lei-Houjyu.github.io/files/qrcode.png).  
 * Basketball: Fan of [Los Angeles Lakers](https://www.nba.com/lakers/)
