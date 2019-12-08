@@ -47,8 +47,15 @@ Selected Awards
 2016/17,    National Encouragement Scholarship, Ministry of Education of China  
 2015/16/17, Academic Excellent Scholarship, Shanghai Jiao Tong University
 
+Leadership
+=====
+* Founder and the first president of Martial Arts Association at SJTU
+  * The organization has now became one of the top students clubs on campus. If you are interested in Chinese martial arts, please checkout out our [Chinese Wechat public account](https://Lei-Houjyu.github.io/files/qrcode.png).
+* Vice-minister of Library Students’ Administration Committee at SJTU
+  * I led the work-study program with over 1M annual budget in library.
+
+
 Personal
 =====
 * Martial arts: National secondary Wushu athlete  
-  * I founded the Martial Arts Association at SJTU and acted as the first president. Now, it has became one of the top student clubs on campus. The Chinese Wechat public account is [here](https://Lei-Houjyu.github.io/files/qrcode.png).  
 * Basketball: Fan of [Los Angeles Lakers](https://www.nba.com/lakers/)
