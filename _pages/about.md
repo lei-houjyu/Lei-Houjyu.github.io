@@ -50,9 +50,9 @@ Selected Awards
 Leadership
 =====
 * Founder and the first president of Martial Arts Association at SJTU
-  * The organization has now became one of the top students clubs on campus. If you are interested in Chinese martial arts, please checkout out our [Chinese Wechat public account](https://Lei-Houjyu.github.io/files/qrcode.png).
+  * The organization has now become one of the top student clubs on campus. If you are interested in Chinese martial arts, please check out out our [Chinese Wechat public account](https://Lei-Houjyu.github.io/files/qrcode.png).
 * Vice-minister of Library Students’ Administration Committee at SJTU
-  * I led the work-study program with over 1M annual budget in library.
+  * I led the work-study program with over 1M annual budget in the library.
 
 
 Personal
