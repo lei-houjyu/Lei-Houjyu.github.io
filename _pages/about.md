@@ -7,30 +7,35 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year M.E. student at School of Software, Shanghai Jiao Tong University. In the last four years, I have a great experience in Institute of Parallel and Distributed Systems ([IPADS](https://ipads.se.sjtu.edu.cn/)), where I am advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and work on memory management in Java runtime.
+I am a final-year M.E. student of [School of Software](http://en.se.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). In the last four years, I have a great experience in Institute of Parallel and Distributed Systems ([IPADS](https://ipads.se.sjtu.edu.cn/)), where I am advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and work on memory management in Java runtime.
 
 Currently, **I am seeking to apply for a CS/ECE Ph.D. program starting from Fall 2020**. I would like to pursue systems research during my doctoral period. Please feel free to contact me via [email](mailto:haoyu.li@sjtu.edu.cn) at any time if you are interested in working with me. Click [here](https://Lei-Houjyu.github.io/files/cv.pdf) for my CV.
+
+News
+=====
+Dec. 2019 &emsp;OpenJDK has officially merged my [patch](https://bugs.openjdk.java.net/browse/JDK-8220465) improving full GC into the mainstream!  
+Oct. 2019 &emsp; I am attending [SOSP 2019](https://sosp19.rcs.uwaterloo.ca/)!
 
 Education
 ======
 M.E. in Software Engineering, Shanghai Jiao Tong University, China. 2020.06 (Expected)  
-B.E. in Software Engineering, Shanghai Jiao Tong University, China. 2018.06
+B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China. 2018.06
 
 Publications
 =====
 ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)]  
 **Haoyu Li**, Mingyu Wu, Binyu Zang, Haibo Chen  
-VEE 2019
+[VEE 2019](https://conf.researchr.org/home/vee-2019)
 
 
 Analysis and Optimizations of Java Full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/full-gc.pdf)]  
 **Haoyu Li**, Mingyu Wu, Haibo Chen  
-APSys 2018 (Best Paper Runner Up)
+[APSys 2018](http://apsys18.kaist.ac.kr/) (Best Paper Runner Up)
 
 
 Espresso: Brewing Java for More Non-Volatility with Non-volatile Memory [[PDF](https://Lei-Houjyu.github.io/files/espresso.pdf)]  
 Mingyu Wu, Ziming Zhao, **Haoyu Li**, Heting Li, Haibo Chen, Binyu Zang, Haibing Guan  
-ASPLOS 2018
+[ASPLOS 2018](https://www.asplos2018.org/)
 
 
 Selected Awards
@@ -42,4 +47,15 @@ Selected Awards
 2016/17,    National Encouragement Scholarship, Ministry of Education of China  
 2015/16/17, Academic Excellent Scholarship, Shanghai Jiao Tong University
 
+Leadership
+=====
+* Founder and the first president of Martial Arts Association at SJTU
+  * The organization has now become one of the top student clubs on campus. If you are interested in Chinese martial arts, please check out out our [Chinese Wechat public account](https://Lei-Houjyu.github.io/files/qrcode.png).
+* Vice-minister of Library Students’ Administration Committee at SJTU
+  * I led the work-study program with over 1M annual budget in the library.
 
+
+Personal
+=====
+* Martial arts: National secondary Wushu athlete  
+* Basketball: Fan of [Los Angeles Lakers](https://www.nba.com/lakers/)
