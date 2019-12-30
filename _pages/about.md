@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year M.E. student of [School of Software](http://en.se.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). In the last four years, I have a great experience in Institute of Parallel and Distributed Systems ([IPADS](https://ipads.se.sjtu.edu.cn/)), where I am advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and work on memory management in Java runtime.
+I am a final-year M.E. student of the [School of Software](http://en.se.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). In the last four years, I have a great experience in the Institute of Parallel and Distributed Systems ([IPADS](https://ipads.se.sjtu.edu.cn/)), where I am advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and work on memory management in Java runtime.
 
 Currently, **I am seeking to apply for a CS/ECE Ph.D. program starting from Fall 2020**. I would like to pursue systems research during my doctoral period. Please feel free to contact me via [email](mailto:haoyu.li@sjtu.edu.cn) at any time if you are interested in working with me. Click [here](https://Lei-Houjyu.github.io/files/cv.pdf) for my CV.
 
