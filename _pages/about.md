@@ -13,13 +13,13 @@ I will start my Ph.D. study at [Columbia CS](https://www.cs.columbia.edu/) from 
 
 News
 =====
-Mar. 2020 I accept the Ph.D. offer from Columbia University!
-Dec. 2019 OpenJDK has officially merged my [patch](https://bugs.openjdk.java.net/browse/JDK-8220465) improving full GC into the mainstream!  
-Oct. 2019 I am attending [SOSP 2019](https://sosp19.rcs.uwaterloo.ca/)!
+Mar. 2020 &nbsp; I accept the Ph.D. offer from Columbia University!  
+Dec. 2019 &nbsp; OpenJDK has officially merged my [patch](https://bugs.openjdk.java.net/browse/JDK-8220465) improving full GC into the mainstream!  
+Oct. 2019 &nbsp; I am attending [SOSP 2019](https://sosp19.rcs.uwaterloo.ca/)!
 
 Education
 ======
-M.E. in Software Engineering, Shanghai Jiao Tong University, China. 2020.06 (Expected)  
+M.E. in Software Engineering, Shanghai Jiao Tong University, China. 2021.03  
 B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China. 2018.06
 
 Publications
