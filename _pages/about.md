@@ -19,8 +19,8 @@ Oct. 2019 &nbsp; I am attending [SOSP 2019](https://sosp19.rcs.uwaterloo.ca/)!
 
 Education
 ======
-M.E. in Software Engineering, Shanghai Jiao Tong University, China. 2021.03  
-B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China. 2018.06
+Mar. 2021 &nbsp; M.E. in Software Engineering, Shanghai Jiao Tong University, China.  
+Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China.
 
 Publications
 =====
