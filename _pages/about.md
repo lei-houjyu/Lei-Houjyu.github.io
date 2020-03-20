@@ -26,7 +26,7 @@ Publications
 =====
 ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)]  
 **Haoyu Li**, Mingyu Wu, Binyu Zang, Haibo Chen  
-[VEE 2019](https://conf.researchr.org/home/vee-2019)
+[VEE 2019](https://conf.researchr.org/home/vee-2019) (Integrated into OpenJDK)
 
 
 Analysis and Optimizations of Java Full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/full-gc.pdf)]  
