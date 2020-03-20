@@ -7,14 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year M.E. student of the [School of Software](http://en.se.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). In the last four years, I have a great experience in the Institute of Parallel and Distributed Systems ([IPADS](https://ipads.se.sjtu.edu.cn/)), where I am advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and work on memory management in the Java Virtual Machine.
+I am a second-year M.E. student of the [School of Software](http://en.se.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). In the last four years, I have a great experience in the Institute of Parallel and Distributed Systems ([IPADS](https://ipads.se.sjtu.edu.cn/)), where I am advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and work on memory management in the Java Virtual Machine.
 
-Currently, **I am seeking to apply for a CS/ECE Ph.D. program starting from Fall 2020**. I would like to pursue systems research during my doctoral period. Please feel free to contact me via [email](mailto:haoyu.li@sjtu.edu.cn) at any time if you are interested in working with me. Click [here](https://Lei-Houjyu.github.io/files/cv.pdf) for my CV.
+I will start my Ph.D. study at [Columbia CS](https://www.cs.columbia.edu/) from Fall 2020, supervised by [Prof. Asaf Cidon](https://www.asafcidon.com/). Please feel free to contact me via [email](mailto:haoyu.li@sjtu.edu.cn) if you are interested in cooperating with me. Click [here](https://Lei-Houjyu.github.io/files/cv.pdf) for my CV.
 
 News
 =====
-Dec. 2019 &emsp;OpenJDK has officially merged my [patch](https://bugs.openjdk.java.net/browse/JDK-8220465) improving full GC into the mainstream!  
-Oct. 2019 &emsp; I am attending [SOSP 2019](https://sosp19.rcs.uwaterloo.ca/)!
+Mar. 2020 I accept the Ph.D. offer from Columbia University!
+Dec. 2019 OpenJDK has officially merged my [patch](https://bugs.openjdk.java.net/browse/JDK-8220465) improving full GC into the mainstream!  
+Oct. 2019 I am attending [SOSP 2019](https://sosp19.rcs.uwaterloo.ca/)!
 
 Education
 ======
