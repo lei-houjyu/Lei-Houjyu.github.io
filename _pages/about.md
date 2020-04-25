@@ -13,6 +13,7 @@ I will start my Ph.D. study at [Columbia CS](https://www.cs.columbia.edu/) from 
 
 News
 =====
+Apr. 2020 &nbsp; Platinum is accepted by ATC 2020!  
 Mar. 2020 &nbsp; I accept the Ph.D. offer from Columbia University!  
 Dec. 2019 &nbsp; OpenJDK has officially merged my [patch](https://bugs.openjdk.java.net/browse/JDK-8220465) improving full GC into the mainstream!  
 Oct. 2019 &nbsp; I am attending [SOSP 2019](https://sosp19.rcs.uwaterloo.ca/)!
@@ -24,6 +25,10 @@ Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong Universi
 
 Publications
 =====
+Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services  
+Mingyu Wu, Ziming Zhao, Yanfei Yang, **Haoyu Li**, Haibo Chen, Binyu Zang, Haibing Guan, Sanhong Li, Chuansheng Lu, Tongbao Zhang  
+[ATC 2020](https://www.usenix.org/conference/atc20) (Accepted)  
+
 ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)]  
 **Haoyu Li**, Mingyu Wu, Binyu Zang, Haibo Chen  
 [VEE 2019](https://conf.researchr.org/home/vee-2019) (Integrated into OpenJDK)
