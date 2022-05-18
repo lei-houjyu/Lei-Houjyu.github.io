@@ -49,6 +49,7 @@ Mingyu Wu, Ziming Zhao, **Haoyu Li**, Heting Li, Haibo Chen, Binyu Zang, Haibing
 
 Selected Awards
 ======
+2021,       Outstanding Graduate, Ministry of Shanghai City
 2019,       National Scholarship, Ministry of Education of China  
 2018,       Outstanding Graduate, Shanghai Jiao Tong University  
 2017,       Xin Dong Network Inc. Scholarship  
