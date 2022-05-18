@@ -14,19 +14,19 @@ Please feel free to contact me via [email](mailto:haoyu.li@columbia.edu) if you 
 
 Education
 ======
-May. 2026 &nbsp; Ph.D in Computer Science, Columbia University in the City of New York, USA.  
+May. 2026 (expected) &nbsp; Ph.D in Computer Science, Columbia University in the City of New York, USA.  
 Mar. 2021 &nbsp; M.E. in Software Engineering, Shanghai Jiao Tong University, China.  
 Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China.
 
 Publications
 =====
 XRP: In-Kernel Storage Functions with eBPF  
-Yuhong Zhong, **Haoyu Li**, Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, Asaf Cidon  
-[OSDI 2020](https://www.usenix.org/conference/osdi22)  
+Yuhong Zhong, **Haoyu Li**, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, Asaf Cidon  
+[OSDI 2022](https://www.usenix.org/conference/osdi22)  
 
 Roller: Fast and Efficient Tensor Compilation for Deep Learning  
 Hongyu Zhu, Ruofan Wu, Yijia Diao, Shanbin Ke, **Haoyu Li**, Chen Zhang, Jilong Xue, Lingxiao Ma, Yuqing Xia, Wei Cui, Fan Yang, Mao Yang, Lidong Zhou, Asaf Cidon, Gennady Pekhimenko  
-[OSDI 2020](https://www.usenix.org/conference/osdi22)  
+[OSDI 2022](https://www.usenix.org/conference/osdi22)  
 
 Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services  
 Mingyu Wu, Ziming Zhao, Yanfei Yang, **Haoyu Li**, Haibo Chen, Binyu Zang, Haibing Guan, Sanhong Li, Chuansheng Lu, Tongbao Zhang  
