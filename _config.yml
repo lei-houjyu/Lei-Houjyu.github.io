@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haoyu Li | SJTU"
+title                    : "Haoyu Li | Columbia"
 title_separator          : "-"
 name                     : &name "Haoyu Li"
-description              : &description "M.E. Student"
+description              : &description "Ph.D. Student"
 url                      : https://lei-houjyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Haoyu Li (李浩宇)"
   avatar           : "haoyuli.jpg"
-  bio              : "M.E. Student at Shanghai Jiao Tong University"
+  bio              : "Ph.D. Student at Columbia University"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=g_240wUAAAAJ&hl=en"
-  email            : "haoyu.li@sjtu.edu.cn"
+  email            : "haoyu.li@columbia.edu"
   researchgate     : 
   uri              :
   bitbucket        :
