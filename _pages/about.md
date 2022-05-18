@@ -28,7 +28,7 @@ Roller: Fast and Efficient Tensor Compilation for Deep Learning
 Hongyu Zhu, Ruofan Wu, Yijia Diao, Shanbin Ke, **Haoyu Li**, Chen Zhang, Jilong Xue, Lingxiao Ma, Yuqing Xia, Wei Cui, Fan Yang, Mao Yang, Lidong Zhou, Asaf Cidon, Gennady Pekhimenko  
 [OSDI 2022](https://www.usenix.org/conference/osdi22)  
 
-Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services  
+Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services  [[PDF](https://Lei-Houjyu.github.io/files/platinum.pdf)]  
 Mingyu Wu, Ziming Zhao, Yanfei Yang, **Haoyu Li**, Haibo Chen, Binyu Zang, Haibing Guan, Sanhong Li, Chuansheng Lu, Tongbao Zhang  
 [ATC 2020](https://www.usenix.org/conference/atc20)  
 
