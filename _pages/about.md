@@ -22,29 +22,30 @@ Publications
 =====
 XRP: In-Kernel Storage Functions with eBPF  
 Yuhong Zhong, **Haoyu Li**, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, Asaf Cidon  
-[OSDI 2022](https://www.usenix.org/conference/osdi22)  
+OSDI 2022  
 
 Roller: Fast and Efficient Tensor Compilation for Deep Learning  
 Hongyu Zhu, Ruofan Wu, Yijia Diao, Shanbin Ke, **Haoyu Li**, Chen Zhang, Jilong Xue, Lingxiao Ma, Yuqing Xia, Wei Cui, Fan Yang, Mao Yang, Lidong Zhou, Asaf Cidon, Gennady Pekhimenko  
-[OSDI 2022](https://www.usenix.org/conference/osdi22)  
+OSDI 2022  
 
 Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services  [[PDF](https://Lei-Houjyu.github.io/files/platinum.pdf)]  
 Mingyu Wu, Ziming Zhao, Yanfei Yang, **Haoyu Li**, Haibo Chen, Binyu Zang, Haibing Guan, Sanhong Li, Chuansheng Lu, Tongbao Zhang  
-[ATC 2020](https://www.usenix.org/conference/atc20)  
+ATC 2020  
+
 
 ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)]  
 **Haoyu Li**, Mingyu Wu, Binyu Zang, Haibo Chen  
-[VEE 2019](https://conf.researchr.org/home/vee-2019) (Integrated into OpenJDK)
+VEE 2019 (Integrated into OpenJDK)  
 
 
 Analysis and Optimizations of Java Full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/full-gc.pdf)]  
 **Haoyu Li**, Mingyu Wu, Haibo Chen  
-[APSys 2018](http://apsys18.kaist.ac.kr/) (Best Paper Runner Up)
+APSys 2018 (Best Paper Runner Up)  
 
 
 Espresso: Brewing Java for More Non-Volatility with Non-volatile Memory [[PDF](https://Lei-Houjyu.github.io/files/espresso.pdf)]  
 Mingyu Wu, Ziming Zhao, **Haoyu Li**, Heting Li, Haibo Chen, Binyu Zang, Haibing Guan  
-[ASPLOS 2018](https://www.asplos2018.org/)
+ASPLOS 2018  
 
 
 Selected Awards
