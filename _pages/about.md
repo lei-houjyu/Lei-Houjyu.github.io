@@ -14,7 +14,7 @@ Please feel free to contact me via [email](mailto:haoyu.li@columbia.edu) if you 
 
 Education
 ======
-May. 2026 (expected) &nbsp; Ph.D in Computer Science, Columbia University, USA.  
+May. 2026 (expected) &nbsp; Ph.D. in Computer Science, Columbia University, USA.  
 Mar. 2021 &nbsp; M.E. in Software Engineering, Shanghai Jiao Tong University, China.  
 Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China.
 
