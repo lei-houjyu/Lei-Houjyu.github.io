@@ -20,32 +20,32 @@ Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong Universi
 
 Publications
 =====
-XRP: In-Kernel Storage Functions with eBPF  
+_XRP: In-Kernel Storage Functions with eBPF_  
 Yuhong Zhong, **Haoyu Li**, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, Asaf Cidon  
-OSDI 2022  
+**OSDI 2022 (Best Paper Award)**  
 
-Roller: Fast and Efficient Tensor Compilation for Deep Learning  
+_Roller: Fast and Efficient Tensor Compilation for Deep Learning_  
 Hongyu Zhu, Ruofan Wu, Yijia Diao, Shanbin Ke, **Haoyu Li**, Chen Zhang, Jilong Xue, Lingxiao Ma, Yuqing Xia, Wei Cui, Fan Yang, Mao Yang, Lidong Zhou, Asaf Cidon, Gennady Pekhimenko  
-OSDI 2022  
+**OSDI 2022**  
 
-Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services  [[PDF](https://Lei-Houjyu.github.io/files/platinum.pdf)]  
+_Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services  [[PDF](https://Lei-Houjyu.github.io/files/platinum.pdf)]_  
 Mingyu Wu, Ziming Zhao, Yanfei Yang, **Haoyu Li**, Haibo Chen, Binyu Zang, Haibing Guan, Sanhong Li, Chuansheng Lu, Tongbao Zhang  
-ATC 2020  
+**ATC 2020**  
 
 
-ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)]  
+_ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)]_  
 **Haoyu Li**, Mingyu Wu, Binyu Zang, Haibo Chen  
-VEE 2019 (Integrated into OpenJDK)  
+**VEE 2019 (Integrated into OpenJDK)**  
 
 
-Analysis and Optimizations of Java Full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/full-gc.pdf)]  
+_Analysis and Optimizations of Java Full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/full-gc.pdf)]_  
 **Haoyu Li**, Mingyu Wu, Haibo Chen  
-APSys 2018 (Best Paper Runner Up)  
+**APSys 2018 (Best Paper Runner Up)**  
 
 
-Espresso: Brewing Java for More Non-Volatility with Non-volatile Memory [[PDF](https://Lei-Houjyu.github.io/files/espresso.pdf)]  
+_Espresso: Brewing Java for More Non-Volatility with Non-volatile Memory [[PDF](https://Lei-Houjyu.github.io/files/espresso.pdf)]_  
 Mingyu Wu, Ziming Zhao, **Haoyu Li**, Heting Li, Haibo Chen, Binyu Zang, Haibing Guan  
-ASPLOS 2018  
+**ASPLOS 2018**  
 
 
 Selected Awards
