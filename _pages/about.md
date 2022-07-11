@@ -20,15 +20,15 @@ Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong Universi
 
 Publications
 =====
-_XRP: In-Kernel Storage Functions with eBPF_  
+_XRP: In-Kernel Storage Functions with eBPF [[PDF](https://Lei-Houjyu.github.io/files/XRP.pdf)]_  
 Yuhong Zhong, **Haoyu Li**, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, Asaf Cidon  
 **OSDI 2022 (Best Paper Award)**  
 
-_Roller: Fast and Efficient Tensor Compilation for Deep Learning_  
+_Roller: Fast and Efficient Tensor Compilation for Deep Learning [[PDF](https://Lei-Houjyu.github.io/files/roller.pdf)]_  
 Hongyu Zhu, Ruofan Wu, Yijia Diao, Shanbin Ke, **Haoyu Li**, Chen Zhang, Jilong Xue, Lingxiao Ma, Yuqing Xia, Wei Cui, Fan Yang, Mao Yang, Lidong Zhou, Asaf Cidon, Gennady Pekhimenko  
 **OSDI 2022**  
 
-_Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services  [[PDF](https://Lei-Houjyu.github.io/files/platinum.pdf)]_  
+_Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services [[PDF](https://Lei-Houjyu.github.io/files/platinum.pdf)]_  
 Mingyu Wu, Ziming Zhao, Yanfei Yang, **Haoyu Li**, Haibo Chen, Binyu Zang, Haibing Guan, Sanhong Li, Chuansheng Lu, Tongbao Zhang  
 **ATC 2020**  
 
