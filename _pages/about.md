@@ -9,8 +9,7 @@ redirect_from:
 ---
 Hi! I am a second-year Ph.D. student at [Computer Science Department, Columbia University](https://www.cs.columbia.edu/), supervised by [Prof. Asaf Cidon](https://www.asafcidon.com/). My research interest is storage systems. Before joining Columbia, I spent four wonderful years in the [Institute of Parallel and Distributed Systems](https://ipads.se.sjtu.edu.cn/), where I was advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and worked on memory management in the Java Virtual Machine.
 
-Please feel free to contact me via [email](mailto:haoyu.li@columbia.edu) if you are interested in cooperating with me.  
-<!-- Click [here](https://Lei-Houjyu.github.io/files/cv.pdf) for my CV. -->
+I'm looking for an internship in 2023 summer. Please feel free to contact me via [email](mailto:haoyu.li@columbia.edu) if you are interested!  
 
 Education
 ======
