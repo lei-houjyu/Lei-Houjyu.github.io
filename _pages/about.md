@@ -21,7 +21,7 @@ Publications
 =====
 _XRP: In-Kernel Storage Functions with eBPF [[PDF](https://Lei-Houjyu.github.io/files/XRP.pdf)]_  
 Yuhong Zhong, **Haoyu Li**, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, Asaf Cidon  
-**OSDI 2022 (Best Paper Award)**  
+**OSDI 2022 (Jay Lepreau Best Paper Award)**  
 
 _Roller: Fast and Efficient Tensor Compilation for Deep Learning [[PDF](https://Lei-Houjyu.github.io/files/roller.pdf)]_  
 Hongyu Zhu, Ruofan Wu, Yijia Diao, Shanbin Ke, **Haoyu Li**, Chen Zhang, Jilong Xue, Lingxiao Ma, Yuqing Xia, Wei Cui, Fan Yang, Mao Yang, Lidong Zhou, Asaf Cidon, Gennady Pekhimenko  
