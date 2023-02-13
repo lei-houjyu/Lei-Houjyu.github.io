@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a third-year Ph.D. student at [Computer Science Department, Columbia University](https://www.cs.columbia.edu/), supervised by [Prof. Asaf Cidon](https://www.asafcidon.com/). My research interest is storage systems. Before joining Columbia, I spent four wonderful years in the [Institute of Parallel and Distributed Systems](https://ipads.se.sjtu.edu.cn/), where I was advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and worked on memory management in the Java Virtual Machine.
+Hi! I am a third-year Ph.D. student at [Computer Science Department, Columbia University](https://www.cs.columbia.edu/), supervised by [Prof. Asaf Cidon](https://www.asafcidon.com/). My research interest is storage and ML systems. Before joining Columbia, I spent four wonderful years in the [Institute of Parallel and Distributed Systems](https://ipads.se.sjtu.edu.cn/), where I was advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and worked on memory management in the Java Virtual Machine.
 
-I'm looking for an internship in 2023 summer. Please feel free to contact me via [email](mailto:haoyu.li@columbia.edu) if you are interested!  
+If you are a Columbia student who would like to join our research projects, please feel free to contact me via [email](mailto:haoyu.li@columbia.edu)!  
 
 Education
 ======
-May. 2025 (expected) &nbsp; Ph.D. in Computer Science, Columbia University, USA.  
+May. 2026 (expected) &nbsp; Ph.D. in Computer Science, Columbia University, USA.  
 Mar. 2021 &nbsp; M.E. in Software Engineering, Shanghai Jiao Tong University, China.  
 Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China.
 
@@ -62,15 +62,3 @@ Selected Awards
 2016/17,    National Encouragement Scholarship, Ministry of Education of China  
 2015/16/17, Academic Excellent Scholarship, Shanghai Jiao Tong University
 
-<!-- Leadership
-=====
-* Founder and the first president of Martial Arts Association at SJTU
-  * The organization has now become one of the top student clubs on campus. If you are interested in Chinese martial arts, please check out out our [Chinese Wechat public account](https://Lei-Houjyu.github.io/files/qrcode.png).
-* Vice-minister of Library Students’ Administration Committee at SJTU
-  * I led the work-study program with over 1M annual budget in the library.
-
-
-Personal
-=====
-* Martial arts: National secondary Wushu athlete  
-* Basketball: Fan of [Los Angeles Lakers](https://www.nba.com/lakers/) -->
