@@ -58,8 +58,6 @@ Mingyu Wu, Ziming Zhao, **Haoyu Li**, Heting Li, Haibo Chen, Binyu Zang, Haibing
 Selected Awards
 ======
 2022,       Jay Lepreau Best Paper Award, USENIX OSDI  
-2021,       Outstanding Graduate, Ministry of Education of Shanghai City  
 2019,       National Scholarship, Ministry of Education of China  
 2018,       Best Paper Runner Up, ACM APSys  
-2018,       Outstanding Graduate, Shanghai Jiao Tong University  
 
