@@ -62,8 +62,4 @@ Selected Awards
 2019,       National Scholarship, Ministry of Education of China  
 2018,       Best Paper Runner Up, ACM APSys  
 2018,       Outstanding Graduate, Shanghai Jiao Tong University  
-2017,       Xin Dong Network Inc. Scholarship  
-2017,	      Academic Progress Scholarship, Shanghai Jiao Tong University  
-2016/17,    National Encouragement Scholarship, Ministry of Education of China  
-2015/16/17, Academic Excellent Scholarship, Shanghai Jiao Tong University
 
