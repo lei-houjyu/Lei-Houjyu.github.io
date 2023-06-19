@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a third-year Ph.D. candidate at [Computer Science Department, Columbia University](https://www.cs.columbia.edu/), supervised by [Prof. Asaf Cidon](https://www.asafcidon.com/). My research interest is storage and ML systems. Before joining Columbia, I spent four wonderful years in the [Institute of Parallel and Distributed Systems](https://ipads.se.sjtu.edu.cn/), where I was advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and worked on memory management in the Java Virtual Machine. I was a research intern at Microsoft Research Asia and Alibaba.
+Hi! I am a third-year PhD candidate at [Computer Science Department, Columbia University](https://www.cs.columbia.edu/), supervised by [Prof. Asaf Cidon](https://www.asafcidon.com/). My research interest is storage and ML systems. Before joining Columbia, I spent four wonderful years in the [Institute of Parallel and Distributed Systems](https://ipads.se.sjtu.edu.cn/), where I was advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) and worked on memory management in the Java Virtual Machine. I was a research intern at Microsoft Research Asia and Alibaba.
 
 If you are a Columbia student who would like to join our research projects, please feel free to contact me via [email](mailto:haoyu.li@columbia.edu)!  
 
@@ -18,7 +18,7 @@ Feb. 2023 &nbsp; M.S. in Computer Science, Columbia University, USA.
 Mar. 2021 &nbsp; M.E. in Software Engineering, Shanghai Jiao Tong University, China.  
 Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China.
 
-Publications
+PhD Publications
 =====
 _RubbleDB: CPU-Efficient Replication with NVMe-oF_  
 **Haoyu Li**, Sheng Jiang, Chen Chen, Ashwini Raina, Xinyu Zhu, Changxu Luo, Asaf Cidon  
@@ -32,27 +32,6 @@ Yuhong Zhong, **Haoyu Li**, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mest
 _Roller: Fast and Efficient Tensor Compilation for Deep Learning [[PDF](https://Lei-Houjyu.github.io/files/roller.pdf)]_  
 Hongyu Zhu, Ruofan Wu, Yijia Diao, Shanbin Ke, **Haoyu Li**, Chen Zhang, Jilong Xue, Lingxiao Ma, Yuqing Xia, Wei Cui, Fan Yang, Mao Yang, Lidong Zhou, Asaf Cidon, Gennady Pekhimenko  
 **USENIX OSDI 2022**  
-
-_Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services [[PDF](https://Lei-Houjyu.github.io/files/platinum.pdf)]_  
-Mingyu Wu, Ziming Zhao, Yanfei Yang, **Haoyu Li**, Haibo Chen, Binyu Zang, Haibing Guan, Sanhong Li, Chuansheng Lu, Tongbao Zhang  
-**USENIX ATC 2020**  
-
-
-_ScissorGC: Scalable and Efficient Compaction for Java full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)]_  
-**Haoyu Li**, Mingyu Wu, Binyu Zang, Haibo Chen  
-**ACM VEE 2019**  
-**Integrated into OpenJDK**  
-
-
-_Analysis and Optimizations of Java Full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/full-gc.pdf)]_  
-**Haoyu Li**, Mingyu Wu, Haibo Chen  
-**ACM APSys 2018**  
-**Best Paper Runner Up**  
-
-
-_Espresso: Brewing Java for More Non-Volatility with Non-volatile Memory [[PDF](https://Lei-Houjyu.github.io/files/espresso.pdf)]_  
-Mingyu Wu, Ziming Zhao, **Haoyu Li**, Heting Li, Haibo Chen, Binyu Zang, Haibing Guan  
-**ACM ASPLOS 2018**  
 
 
 Selected Awards
