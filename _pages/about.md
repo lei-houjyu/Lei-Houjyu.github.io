@@ -22,16 +22,16 @@ PhD Publications
 =====
 _RubbleDB: CPU-Efficient Replication with NVMe-oF_  
 **Haoyu Li**, Sheng Jiang, Chen Chen, Ashwini Raina, Xinyu Zhu, Changxu Luo, Asaf Cidon  
-**USENIX ATC 2023** (18.4\%)  
+**USENIX ATC 2023** (18.4%)  
 
 _XRP: In-Kernel Storage Functions with eBPF [[PDF](https://Lei-Houjyu.github.io/files/XRP.pdf)]_  
 Yuhong Zhong, **Haoyu Li**, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, Asaf Cidon  
-**USENIX OSDI 2022** (19.4\%)  
+**USENIX OSDI 2022** (19.4%)  
 **Jay Lepreau Best Paper Award**  
 
 _Roller: Fast and Efficient Tensor Compilation for Deep Learning [[PDF](https://Lei-Houjyu.github.io/files/roller.pdf)]_  
 Hongyu Zhu, Ruofan Wu, Yijia Diao, Shanbin Ke, **Haoyu Li**, Chen Zhang, Jilong Xue, Lingxiao Ma, Yuqing Xia, Wei Cui, Fan Yang, Mao Yang, Lidong Zhou, Asaf Cidon, Gennady Pekhimenko  
-**USENIX OSDI 2022** (19.4\%)  
+**USENIX OSDI 2022** (19.4%)  
 
 
 Selected Awards
