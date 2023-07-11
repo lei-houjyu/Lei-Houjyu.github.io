@@ -20,7 +20,7 @@ Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong Universi
 
 PhD Publications
 =====
-_RubbleDB: CPU-Efficient Replication with NVMe-oF_  
+_RubbleDB: CPU-Efficient Replication with NVMe-oF [[PDF](https://Lei-Houjyu.github.io/files/atc23-li-haoyu.pdf)]_  
 **Haoyu Li**, Sheng Jiang, Chen Chen, Ashwini Raina, Xinyu Zhu, Changxu Luo, Asaf Cidon  
 **USENIX ATC 2023** (18.4%)  
 
