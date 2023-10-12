@@ -14,7 +14,6 @@ If you are a Columbia student who would like to join our research projects, plea
 Education
 ======
 May. 2026 (expected) &nbsp; Ph.D. in Computer Science, Columbia University, USA.  
-Feb. 2023 &nbsp; M.S. in Computer Science, Columbia University, USA.  
 Mar. 2021 &nbsp; M.E. in Software Engineering, Shanghai Jiao Tong University, China.  
 Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China.
 
