@@ -18,13 +18,6 @@ May. 2026 (expected) &nbsp; Ph.D. in Computer Science, Columbia University, USA.
 Mar. 2021 &nbsp; M.E. in Software Engineering, Shanghai Jiao Tong University, China.  
 Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China.
 
-Internship
-======
-05/2023 - 08/2023 &nbsp; Research Intern, Alibaba Group, Sunnyvale, Mentor: Dr. Windsor Hsu  
-08/2020 - 07/2021 &nbsp; Research Intern, Microsoft Research Asia, Beijing, Mentor: Dr. Jilong Xue  
-01/2019 - 12/2019 &nbsp; Research Intern, Alibaba Group, Shanghai, Mentor: Sanhong Li
-
-
 PhD Publications
 =====
 _RubbleDB: CPU-Efficient Replication with NVMe-oF [[PDF](https://Lei-Houjyu.github.io/files/atc23-li-haoyu.pdf)]_  
