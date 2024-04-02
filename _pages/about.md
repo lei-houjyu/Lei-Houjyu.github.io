@@ -42,5 +42,5 @@ Selected Awards
 
 **Services**
 =====
-Reviewer: [IEEE TCC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519), [Elsevier ComCom](https://www.sciencedirect.com/journal/computer-communications), [Elsevier JSA](https://www.sciencedirect.com/journal/journal-of-systems-architecture), [SynData4CV@CVPR](https://syndata4cv.github.io/index.html)
+Reviewer: [IEEE TCC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519), [Elsevier ComCom](https://www.sciencedirect.com/journal/computer-communications), [Elsevier JSA](https://www.sciencedirect.com/journal/journal-of-systems-architecture), [Elsevier CEE](https://www.sciencedirect.com/journal/computers-and-electrical-engineering), [SynData4CV@CVPR](https://syndata4cv.github.io/index.html)
 
