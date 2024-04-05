@@ -15,6 +15,7 @@ If you are a Columbia student who would like to join our research projects, plea
 Education
 ======
 May. 2025 &nbsp; Ph.D. in Computer Science, Columbia University, USA.  
+Feb. 2023 &nbsp; M.S. in Computer Science, Columbia University, USA.  
 Mar. 2021 &nbsp; M.E. in Software Engineering, Shanghai Jiao Tong University, China.  
 Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China.
 
@@ -42,5 +43,5 @@ Selected Awards
 
 **Services**
 =====
-Reviewer: [IEEE TCC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519), [Elsevier ComCom](https://www.sciencedirect.com/journal/computer-communications), [Elsevier JSA](https://www.sciencedirect.com/journal/journal-of-systems-architecture), [Elsevier CEE](https://www.sciencedirect.com/journal/computers-and-electrical-engineering), [SynData4CV@CVPR](https://syndata4cv.github.io/index.html)
+Reviewer: [Elsevier JNCA](https://www.sciencedirect.com/journal/journal-of-network-and-computer-applications), [IEEE TCC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519), [Elsevier ComCom](https://www.sciencedirect.com/journal/computer-communications), [Elsevier JSA](https://www.sciencedirect.com/journal/journal-of-systems-architecture), [Elsevier CEE](https://www.sciencedirect.com/journal/computers-and-electrical-engineering), [SynData4CV@CVPR](https://syndata4cv.github.io/index.html)
 
