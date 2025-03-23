@@ -19,6 +19,10 @@ Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong Universi
 
 PhD Publications
 =====
+_Enabling the Write-Back Page Cache with Strong Consistency in Distributed Userspace File Systems_  
+**Haoyu Li**, Jingkai Fu, Qing Li, Windsor Hsu, Asaf Cidon  
+(In Submission)
+
 _RubbleDB: CPU-Efficient Replication with NVMe-oF [[PDF](https://Lei-Houjyu.github.io/files/atc23-li-haoyu.pdf)]_  
 **Haoyu Li**, Sheng Jiang, Chen Chen, Ashwini Raina, Xinyu Zhu, Changxu Luo, Asaf Cidon  
 **USENIX ATC 2023** (18.4%)  
@@ -31,7 +35,6 @@ Yuhong Zhong, **Haoyu Li**, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mest
 _Roller: Fast and Efficient Tensor Compilation for Deep Learning [[PDF](https://Lei-Houjyu.github.io/files/roller.pdf)]_  
 Hongyu Zhu, Ruofan Wu, Yijia Diao, Shanbin Ke, **Haoyu Li**, Chen Zhang, Jilong Xue, Lingxiao Ma, Yuqing Xia, Wei Cui, Fan Yang, Mao Yang, Lidong Zhou, Asaf Cidon, Gennady Pekhimenko  
 **USENIX OSDI 2022** (19.4%)  
-
 
 Selected Awards
 ======
