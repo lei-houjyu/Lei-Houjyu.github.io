@@ -19,7 +19,7 @@ Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong Universi
 
 PhD Publications
 =====
-_Enabling the Write-Back Page Cache with Strong Consistency in Distributed Userspace File Systems_  
+_Enabling the Write-Back Page Cache with Strong Consistency in Distributed Userspace File Systems [[PDF](https://arxiv.org/pdf/2503.18191)]_  
 **Haoyu Li**, Jingkai Fu, Qing Li, Windsor Hsu, Asaf Cidon  
 (In Submission)
 
