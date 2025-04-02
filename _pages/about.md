@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a final-year PhD candidate at [Computer Science Department, Columbia University](https://www.cs.columbia.edu/), supervised by [Prof. Asaf Cidon](https://www.asafcidon.com/). My research interest is storage and ML systems. Before joining Columbia, I spent four wonderful years in the [Institute of Parallel and Distributed Systems](https://ipads.se.sjtu.edu.cn/), Shanghai Jiao Tong University, where I was advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen). I was a research intern at Microsoft Research Asia, Alibaba, and Google. I will join [SystemsResearch@Google](https://techsysinfra.google/research/) in Fall 2025. 
+Hi! I am a final-year PhD candidate at [Computer Science Department, Columbia University](https://www.cs.columbia.edu/), supervised by [Prof. Asaf Cidon](https://www.asafcidon.com/). My research interest is storage and ML systems. Before joining Columbia, I spent four wonderful years in the [Institute of Parallel and Distributed Systems](https://ipads.se.sjtu.edu.cn/), Shanghai Jiao Tong University, where I was advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen). I was a research intern at Microsoft Research Asia, Alibaba, and Google. 
+
+I will join [SystemsResearch@Google](https://techsysinfra.google/research/) in Fall 2025. 
 
 Education
 ======
