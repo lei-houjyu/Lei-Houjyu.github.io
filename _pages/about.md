@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a final-year PhD candidate at [Computer Science Department, Columbia University](https://www.cs.columbia.edu/), supervised by [Prof. Asaf Cidon](https://www.asafcidon.com/). My research interest is storage and ML systems. Before joining Columbia, I spent four wonderful years in the [Institute of Parallel and Distributed Systems](https://ipads.se.sjtu.edu.cn/), Shanghai Jiao Tong University, where I was advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen). I was a research intern at Microsoft Research Asia, Alibaba, and Google. 
 
-I will join [SystemsResearch@Google](https://techsysinfra.google/research/) in Fall 2025. 
+I will join [SystemsResearch@Google](https://techsysinfra.google/research/) in Fall 2025.  
 
 Education
 ======
@@ -33,7 +33,7 @@ _RubbleDB: CPU-Efficient Replication with NVMe-oF [[PDF](https://Lei-Houjyu.gith
 _XRP: In-Kernel Storage Functions with eBPF [[PDF](https://Lei-Houjyu.github.io/files/XRP.pdf)]_  
 Yuhong Zhong, **Haoyu Li**, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, Asaf Cidon  
 **USENIX OSDI 2022** (19.4%)  
-**Jay Lepreau Best Paper Award**  
+<span class="text-red">**Jay Lepreau Best Paper Award**</span>  
 
 _Roller: Fast and Efficient Tensor Compilation for Deep Learning [[PDF](https://Lei-Houjyu.github.io/files/roller.pdf)]_  
 Hongyu Zhu, Ruofan Wu, Yijia Diao, Shanbin Ke, **Haoyu Li**, Chen Zhang, Jilong Xue, Lingxiao Ma, Yuqing Xia, Wei Cui, Fan Yang, Mao Yang, Lidong Zhou, Asaf Cidon, Gennady Pekhimenko  
@@ -48,12 +48,12 @@ Mingyu Wu, Ziming Zhao, Yanfei Yang, **Haoyu Li**, Haibo Chen, Binyu Zang, Haibi
 _ScissorGC: Scalable and Efficient Compaction for Java Full Garbage Collection_  
 **Haoyu Li**, Mingyu Wu, Binyu Zang, and Haibo Chen  
 **ACM VEE 2019**  
-**Integrated into OpenJDK**
+<span class="text-red">**Integrated into OpenJDK**</span>
 
 _Analysis and Optimizations of Java Full Garbage Collection_  
 **Haoyu Li**, Mingyu Wu, and Haibo Chen  
 **ACM APSys 2018**  
-**Best Paper Runner Up**  
+<span class="text-red">**Best Paper Runner Up**</span>  
 
 _Espresso: Brewing Java For More Non-Volatility with Non-volatile Memory_  
 Mingyu Wu, Ziming Zhao, **Haoyu Li**, Heting Li, Haibo Chen, Binyu Zang, and Haibing Guan  
