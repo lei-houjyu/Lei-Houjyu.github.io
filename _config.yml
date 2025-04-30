@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Haoyu Li | Columbia"
 title_separator          : "-"
-name                     : &name "Haoyu Li"
+name                     : &name "Haoyu Li (李浩宇)"
 description              : &description "Ph.D. Candidate"
 url                      : https://lei-houjyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
