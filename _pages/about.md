@@ -14,11 +14,11 @@ I will join [SystemsResearch@Google](https://techsysinfra.google/research/) in F
 
 Education
 ======
-Aug. 2025 &nbsp; Ph.D. in Computer Science, Columbia University, USA.  
-Feb. 2025 &nbsp; M.Phil. in Computer Science, Columbia University, USA.  
-Feb. 2023 &nbsp; M.S. in Computer Science, Columbia University, USA.  
-Mar. 2021 &nbsp; M.E. in Software Engineering, Shanghai Jiao Tong University, China.  
-Jun. 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China.
+2025 &nbsp; Ph.D. in Computer Science, Columbia University, USA.  
+2025 &nbsp; M.Phil. in Computer Science, Columbia University, USA.  
+2023 &nbsp; M.S. in Computer Science, Columbia University, USA.  
+2021 &nbsp; M.E. in Software Engineering, Shanghai Jiao Tong University, China.  
+2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China.
 
 PhD Publications
 =====
@@ -39,7 +39,7 @@ _Roller: Fast and Efficient Tensor Compilation for Deep Learning [[PDF](https://
 Hongyu Zhu, Ruofan Wu, Yijia Diao, Shanbin Ke, **Haoyu Li**, Chen Zhang, Jilong Xue, Lingxiao Ma, Yuqing Xia, Wei Cui, Fan Yang, Mao Yang, Lidong Zhou, Asaf Cidon, Gennady Pekhimenko  
 **USENIX OSDI 2022** (19.4%)  
 
-Prior Publication
+Prior Publications
 =====
 _Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services_  
 Mingyu Wu, Ziming Zhao, Yanfei Yang, **Haoyu Li**, Haibo Chen, Binyu Zang, Haibing Guan, Sanhong Li, Chuansheng Lu, and Tongbao Zhang  
