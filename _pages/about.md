@@ -15,8 +15,6 @@ I will join [SystemsResearch@Google](https://techsysinfra.google/research/) in F
 Education
 ======
 2025 &nbsp; Ph.D. in Computer Science, Columbia University, USA.  
-2025 &nbsp; M.Phil. in Computer Science, Columbia University, USA.  
-2023 &nbsp; M.S. in Computer Science, Columbia University, USA.  
 2021 &nbsp; M.E. in Software Engineering, Shanghai Jiao Tong University, China.  
 2018 &nbsp; B.E. &nbsp;in Software Engineering, Shanghai Jiao Tong University, China.
 
