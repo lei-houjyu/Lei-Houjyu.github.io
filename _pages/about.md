@@ -41,21 +41,21 @@ Prior Publications
 =====
 _Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services [[PDF](https://Lei-Houjyu.github.io/files/platinum.pdf)]_  
 Mingyu Wu, Ziming Zhao, Yanfei Yang, **Haoyu Li**, Haibo Chen, Binyu Zang, Haibing Guan, Sanhong Li, Chuansheng Lu, and Tongbao Zhang  
-**USENIX ATC 2020**
+**USENIX ATC 2020** (18.7%)
 
 _ScissorGC: Scalable and Efficient Compaction for Java Full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/scissor-gc.pdf)]_  
 **Haoyu Li**, Mingyu Wu, Binyu Zang, and Haibo Chen  
-**ACM VEE 2019**  
+**ACM VEE 2019** (45.5%)  
 <span class="text-red">**Integrated into OpenJDK**</span>
 
 _Analysis and Optimizations of Java Full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/full-gc.pdf)]_  
 **Haoyu Li**, Mingyu Wu, and Haibo Chen  
-**ACM APSys 2018**  
+**ACM APSys 2018** (37.5%)  
 <span class="text-red">**Best Paper Runner Up**</span>  
 
 _Espresso: Brewing Java For More Non-Volatility with Non-volatile Memory [[PDF](https://Lei-Houjyu.github.io/files/espresso.pdf)]_  
 Mingyu Wu, Ziming Zhao, **Haoyu Li**, Heting Li, Haibo Chen, Binyu Zang, and Haibing Guan  
-**ACM ASPLOS 2018**
+**ACM ASPLOS 2018** (18.6%)
 
 Selected Awards
 ======
