@@ -51,7 +51,7 @@ _ScissorGC: Scalable and Efficient Compaction for Java Full Garbage Collection [
 _Analysis and Optimizations of Java Full Garbage Collection [[PDF](https://Lei-Houjyu.github.io/files/full-gc.pdf)]_  
 **Haoyu Li**, Mingyu Wu, and Haibo Chen  
 **ACM APSys 2018** (37.5%)  
-<span class="text-red">**Best Paper Runner Up**</span>  
+<span class="text-red">**Best Paper Runner-Up Award**</span>  
 
 _Espresso: Brewing Java For More Non-Volatility with Non-volatile Memory [[PDF](https://Lei-Houjyu.github.io/files/espresso.pdf)]_  
 Mingyu Wu, Ziming Zhao, **Haoyu Li**, Heting Li, Haibo Chen, Binyu Zang, and Haibing Guan  
@@ -61,7 +61,7 @@ Selected Awards
 ======
 2022,       Jay Lepreau Best Paper Award, USENIX OSDI  
 2019,       National Scholarship, Ministry of Education of China  
-2018,       Best Paper Runner Up, ACM APSys  
+2018,       Best Paper Runner-Up Award, ACM APSys  
 
 **Services**
 =====
