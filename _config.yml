@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haoyu Li | Columbia"
 title_separator          : "-"
 name                     : &name "Haoyu Li (李浩宇)"
-description              : &description "Ph.D. Candidate"
+description              : &description "Research Engineer at Google"
 url                      : https://lei-houjyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Haoyu Li"
   avatar           : "haoyuli.jpg"
-  bio              : "Ph.D. Candidate at Columbia University"
+  bio              : "Research Engineet at Google"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tj610lcAAAAJ&hl=en"
-  email            : "haoyu.li@columbia.edu"
+  email            : "lihaoyu@google.com"
   researchgate     : 
   uri              :
   bitbucket        :
