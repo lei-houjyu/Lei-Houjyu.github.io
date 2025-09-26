@@ -18,9 +18,9 @@ Education
 
 PhD Publications
 =====
-_Enabling the Write-Back Page Cache with Strong Consistency in Distributed Userspace File Systems [[PDF](https://arxiv.org/pdf/2503.18191)]_  
+_DFUSE: Strongly Consistent Write-Back Kernel Caching for Distributed Userspace File Systems [[PDF](https://arxiv.org/pdf/2503.18191)]_  
 **Haoyu Li**, Jingkai Fu, Qing Li, Windsor Hsu, Asaf Cidon  
-**Preprint**
+**ACM SoCC 2025**
 
 _RubbleDB: CPU-Efficient Replication with NVMe-oF [[PDF](https://Lei-Houjyu.github.io/files/atc23-li-haoyu.pdf)]_  
 **Haoyu Li**, Sheng Jiang, Chen Chen, Ashwini Raina, Xinyu Zhu, Changxu Luo, Asaf Cidon  
