@@ -65,4 +65,6 @@ Selected Awards
 =====
 Reviewer: [CVPR](https://syndata4cv.github.io/index.html), [Elsevier JNCA](https://www.sciencedirect.com/journal/journal-of-network-and-computer-applications), [IEEE TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858), [IEEE TCC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519), [Elsevier JSA](https://www.sciencedirect.com/journal/journal-of-systems-architecture), [Elsevier CEE](https://www.sciencedirect.com/journal/computers-and-electrical-engineering), [Elsevier JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing), [Elsevier JCS](https://www.sciencedirect.com/journal/journal-of-computational-science)  
 Artifact Evaluation Committee: [USENIX FAST'26](https://www.usenix.org/conference/fast26)
+External Review Committee: [MLSys'26](mlsys.org/Conferences/2026)
+
 
