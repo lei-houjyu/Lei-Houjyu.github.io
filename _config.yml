@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haoyu Li | Columbia"
+title                    : "Haoyu Li | Google"
 title_separator          : "-"
 name                     : &name "Haoyu Li (李浩宇)"
 description              : &description "Research Engineer at Google"
