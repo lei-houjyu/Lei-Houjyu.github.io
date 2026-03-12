@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer at [SystemsResearch@Google](https://techsysinfra.google/research/). Previously, I obtained my PhD from [Computer Science Department, Columbia University](https://www.cs.columbia.edu/), supervised by [Prof. Asaf Cidon](https://www.asafcidon.com/). My research interest is storage and ML systems. Before joining Columbia, I spent four wonderful years in the [IPADS](https://ipads.se.sjtu.edu.cn/), Shanghai Jiao Tong University, where I was advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen). My research was recognized by best paper award in OSDI and adopted in OpenJDK.  
+I am currently a research engineer at [SystemsResearch@Google](https://techsysinfra.google/research/). Previously, I obtained my PhD from [Computer Science Department, Columbia University](https://www.cs.columbia.edu/), supervised by [Prof. Asaf Cidon](https://www.asafcidon.com/). My research interest includes storage and ML systems. Before joining Columbia, I spent four wonderful years in [IPADS, Shanghai Jiao Tong University](https://ipads.se.sjtu.edu.cn/), where I was advised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen). My research was recognized by best paper award in OSDI and adopted in OpenJDK.  
 
 Education
 ======
